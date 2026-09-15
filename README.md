@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨‍💻 I’m a Computer Science–AI & Data Science student passionate about building intelligent, user-focused software.<br>🤖 I enjoy working across AI/ML, Computer Vision, NLP, and full-stack development to turn real-world problems into practical products.<br>🚀 Currently exploring Generative AI, LLM applications, and AI-powered systems while building projects that combine AI with modern web technologies.<br>🎨 I’m also interested in UI/UX, user research, and product design, because I believe great software should be both intelligent and easy to use.
+#  About Me:
+ I’m a Computer Science–AI & Data Science student passionate about building intelligent, user-focused software.<br> I enjoy working across AI/ML, Computer Vision, NLP, and full-stack development to turn real-world problems into practical products.<br> Currently exploring Generative AI, LLM applications, and AI-powered systems while building projects that combine AI with modern web technologies.<br> I’m also interested in UI/UX, user research, and product design, because I believe great software should be both intelligent and easy to use.
 
 
 ## 🌐 Socials:
